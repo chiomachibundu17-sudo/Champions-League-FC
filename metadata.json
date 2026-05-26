@@ -1,0 +1,6 @@
+{
+  "name": "Penalty Kick",
+  "description": "A 2D Penalty Shootout Football game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
